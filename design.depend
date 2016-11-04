@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1459681539 source:d:\backup\桌面\软工课设\design\acllib.c
+	"acllib.h"
+	<windows.h>
+	<olectl.h>
+	<stdio.h>
+
+1460439325 d:\backup\桌面\软工课设\design\acllib.h
+	<Windows.h>
+
+1460550460 source:d:\backup\桌面\软工课设\design\init.c
+
+1463306990 source:d:\backup\桌面\软工课设\design\main.c
+	"acllib.h"
+	"initconstant.h"
+	"start.h"
+	"menu.h"
+	"help.h"
+	"sound.h"
+	"set.h"
+	"game.h"
+	<stdio.h>
+
+1463662373 d:\backup\桌面\软工课设\design\initconstant.h
+
+1463306965 source:d:\backup\桌面\软工课设\design\start.c
+	"acllib.h"
+	"initconstant.h"
+	<stdio.h>
+
+1459681539 d:\backup\桌面\软工课设\design\start.h
+
+1459741716 source:d:\backup\桌面\软工课设\design\menu.c
+	"initconstant.h"
+	"acllib.h"
+
+1459666291 d:\backup\桌面\软工课设\design\menu.h
+
+1459761563 source:d:\backup\桌面\软工课设\design\help.c
+	"initconstant.h"
+	"acllib.h"
+
+1460814157 source:d:\backup\桌面\软工课设\design\sound.c
+	"acllib.h"
+
+1460982885 source:d:\backup\桌面\软工课设\design\set.c
+	"initconstant.h"
+	"acllib.h"
+	"sound.h"
+	<stdio.h>
+	<string.h>
+
+1459741716 d:\backup\桌面\软工课设\design\help.h
+
+1461381012 d:\backup\桌面\软工课设\design\sound.h
+
+1460169347 d:\backup\桌面\软工课设\design\set.h
+
+1460375428 d:\backup\桌面\软工课设\design\game.h
+
+1463648972 source:d:\backup\桌面\软工课设\design\game.c
+	"acllib.h"
+	"initconstant.h"
+	"sound.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+
